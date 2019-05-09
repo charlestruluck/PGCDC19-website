@@ -11,6 +11,10 @@ body {
   background-color: blue !important;
 }
 
+.red {
+  background-color: #A21717;
+}
+
 a {
   background-color: blue;
 }
@@ -18,14 +22,6 @@ a {
 p {
   font-size: 30px;
 }
-
-/* .blue {
-  color: blue;
-}
-
-.red {
-  color: red;
-} */
 
 .brand-logo {
   margin-left: 0.5em;
