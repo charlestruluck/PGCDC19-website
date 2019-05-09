@@ -15,12 +15,9 @@ body {
   background-color: #A21717;
 }
 
-a {
-  background-color: blue;
-}
-
 p {
   font-size: 30px;
+  color: black !important;
 }
 
 .brand-logo {
